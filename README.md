@@ -1,4 +1,4 @@
-# CS331-CyberSecurityProject
+# Larp Detector
 ```txt
 Project Name: Larp Detector (not official)
 Project Description:
