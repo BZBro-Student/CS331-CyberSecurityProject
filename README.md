@@ -1,5 +1,5 @@
 # CS331-CyberSecurityProject
-```bash
+```txt
 Project Name: Larp Detector (not official)
 Project Description:
 GUI Client that allows user to double check scam emails against a tensor flow model
