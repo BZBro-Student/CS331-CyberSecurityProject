@@ -1,6 +1,6 @@
-# Larp Detector
+# TBD
 ```txt
-Project Name: Larp Detector (not official)
+Project Name: TBD
 Project Description:
 GUI Client that allows user to double check scam emails against a tensor flow model
 trained on scam email data. The goal of the project is to provide a secure way to
