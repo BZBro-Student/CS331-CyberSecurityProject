@@ -19,6 +19,6 @@ MODELPATH = {
 MODELWEIGHT = {
     "sender": 0.25,
     "subject": 0.25,
-    "body": 0.40,
-    "urls": 0.10,
+    "body": 0.25,
+    "urls": 0.25,
 }
